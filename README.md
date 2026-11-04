@@ -239,4 +239,4 @@ This repository serves as the official landing page for Java 32-64 bits. The sof
 **Get the most recent version of Java 32-64 bits today!**
 
 ---
-**Last updated:** 2026-11-03 23:47:47 UTC
+**Last updated:** 2026-11-04 03:57:23 UTC
